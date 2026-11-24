@@ -33,3 +33,44 @@
     width="75%"
   />
 </p>
+<h2 align="center">SPACE SHOOTER</h2>
+
+<p align="center">
+  <img
+    src="./game.gif"
+    width="100%"
+    alt="GitHub Space Shooter animation"
+  />
+</p>
+
+
+<br/>
+
+
+<br/>
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+  <br/>
+  <code>while (alive) { learn(); build(); }</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/el-M0ya">
+    <img
+      src="https://img.shields.io/badge/GitHub-Profile-0D5DD7?style=flat&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    />
+  </a>
+  <a href="">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0D5DD7?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn Connect"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>© 2026 Bryan Moya</sub>
+</p>
+
