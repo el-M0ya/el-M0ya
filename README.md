@@ -11,6 +11,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0D5DD7&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer;Exploring+Artificial+Intelligence;Where+Logic+Meets+Creativity;Think.+Create.+Solve.;Learning+Computer+Vision+and+Robotics;Building+projects+and+learning+every+day;Competitive+Programmer" />
 </p>
+
+<p align="center">
+  <img
+    src="./game.gif"
+    width="100%"
+    alt="GitHub Space Shooter animation"
+  />
+</p>
+
 <h2 align="center">Technologies & Tools</h2>
 
 <p align="center">
@@ -31,15 +40,6 @@
   <img
     src="./profile-3d-contrib/profile-night-view.svg"
     width="75%"
-  />
-</p>
-<h2 align="center">SPACE SHOOTER</h2>
-
-<p align="center">
-  <img
-    src="./game.gif"
-    width="100%"
-    alt="GitHub Space Shooter animation"
   />
 </p>
 
